@@ -1,0 +1,14 @@
+TODO List:
+
+short term:
+-Proper entity movement, camera follows controlled entity.
+-load another model.
+-test collision with another model
+-tidy up (naming, init ordering, etc.)
+
+long term:
+-skeletal animation
+-game modes (main menu etc.)
+-serialize asset data
+-sounds
+-game object interaction

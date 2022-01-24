@@ -1,0 +1,7 @@
+Assets
+x64
+*.dll
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
